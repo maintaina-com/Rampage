@@ -1,4 +1,5 @@
 {
+    "minimum-stability": "dev",
     "name": "horde/rampage",
     "description": "Rampage application server library",
     "type": "library",
